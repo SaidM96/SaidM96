@@ -3,8 +3,7 @@
 
 <b>My Intra Stats</b>
 
-[![ajaidi's 42 stats](https://badge.mediaplus.ma/greenbinary/smia)](https://github.com/oakoudad/badge42)
-[![trophy](https://github-profile-trophy.vercel.app/?username=SaidM96&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+[![smia's 42 stats](https://badge.mediaplus.ma/greenbinary/smia)](https://github.com/oakoudad/badge42)
 </div>
 
 <div align="center">
