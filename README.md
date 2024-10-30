@@ -1,11 +1,10 @@
 
+<div align="center">
+
 <b>My Intra Stats</b>
 
 [![ajaidi's 42 stats](https://badge.mediaplus.ma/greenbinary/smia)](https://github.com/oakoudad/badge42)
 [![trophy](https://github-profile-trophy.vercel.app/?username=SaidM96&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SaidM96&"  />
 </div>
 
 <div align="center">
